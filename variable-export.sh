@@ -1,2 +1,2 @@
 #!/bin/bash
-export COURSE="Devops with AWS"
+echo "Course Name is: $COURSE"
