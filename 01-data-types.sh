@@ -12,5 +12,5 @@ echo "SUM is: ${SUM}"
 LEADERS=("BASHA" "ASIF" "SHAIK" "bash")
 
 echo "All leaders: ${LEADERS[@]}"
-#echo "First leade: ${LEADERS[0]}"
-#echo "First Leader: ${LEADERS[10]}"
+echo "First leade: ${LEADERS[0]}"
+echo "First Leader: ${LEADERS[10]}"
